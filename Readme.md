@@ -22,6 +22,7 @@ This guide provides a detailed setup process for running the project on various 
 
 2. Start the project:
     ```bash
+    mkdir tmp
     ./run.sh
     ```
 
